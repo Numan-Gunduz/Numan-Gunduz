@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Numan Gündüz</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="[https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlhdjlrM3UyaTQzYjc0OGUyaGxwNTdsZGQ1YzFoNmQycnhqamFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)">
+<img align="right" alt="Coding" width="400"src="[https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlhdjlrM3UyaTQzYjc0OGUyaGxwNTdsZGQ1YzFoNmQycnhqamFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)>
 
 - 🔭 I’m currently working on *C#,Asp.Net Core, Artificial Intelligence, Python*
 
