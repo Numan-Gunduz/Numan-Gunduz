@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Numan Gündüz</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
-<img align="right" alt="Coding" width="400"src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="Coding" width="400"src="https://i.giphy.com/xT9IgzoKnwFNmISR8I.webp">
 
 - 🔭 I’m currently working on *C#,Asp.Net Core, Artificial Intelligence, Python*
 
